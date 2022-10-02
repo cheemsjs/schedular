@@ -54,7 +54,7 @@ function trigger(text, dateTime) {
         // and then output reverseText in the console
         setTimeout(function() {
             console.log(reverseText);
-        }, 10000 * size);
+        }, 1000 * size);
     })
 }
 
