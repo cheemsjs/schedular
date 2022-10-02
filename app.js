@@ -3,43 +3,43 @@ const schedule = require('node-schedule');
 // list of events
 const events = [
 	{
-		"text": "TextOne",
+		"text": "Text One",
 		"dateTime": "2022-03-31T23:38:00.000+05:30"
     },
     {
-		"text": "TextTwo",
+		"text": "Text Two",
 		"dateTime": "2022-03-31T23:39:00.000+05:30"
     },
     {
-		"text": "TextThree",
+		"text": "Text Three",
 		"dateTime": "2022-03-31T23:40:00.000+05:30"
     },
     {
-		"text": "TextFour",
+		"text": "Text Four",
 		"dateTime": "2022-03-31T23:41:00.000+05:30"
     },
     {
-		"text": "TextFive",
+		"text": "Text Five",
 		"dateTime": "2022-03-31T23:42:00.000+05:30"
     },
     {
-		"text": "TextSix",
+		"text": "Text Six",
 		"dateTime": "2022-03-31T23:43:00.000+05:30"
     },
     {
-		"text": "TextSeven",
+		"text": "Text Seven",
 		"dateTime": "2022-03-31T23:44:00.000+05:30"
     },
     {
-		"text": "TextEight",
+		"text": "Text Eight",
 		"dateTime": "2022-03-31T23:45:00.000+05:30"
     },
     {
-		"text": "TextNine",
+		"text": "Text Nine",
 		"dateTime": "2022-03-31T23:46:00.000+05:30"
     },
     {
-		"text": "TextTen",
+		"text": "Text Ten",
 		"dateTime": "2022-03-31T23:47:00.000+05:30"
     }
 ]
